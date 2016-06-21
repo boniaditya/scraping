@@ -1,3 +1,3 @@
 from urllib.request import urlopen
-html = urlopen("http://pythonscraping.com/pages/page.html")
+html = urlopen("http://www.healthcoachinginstitute.com")
 print(html.read())
