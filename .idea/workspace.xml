@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a44c2f2d-d34f-4c71-9035-24f02e0ca8f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSON/parsingip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jarmul/gzip.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jarmul/isolating_html.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jarmul/scraper_tutorial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scraping.iml" afterPath="$PROJECT_DIR$/.idea/scraping.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scraping.iws" />
@@ -501,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1464864572958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="working with new interpreter python 35 but not with python 27 and the page http://pythonscraping.com/pages/page.html is not found">
+      <created>1469014983492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1469014983492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
